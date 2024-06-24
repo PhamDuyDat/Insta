@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7447D778-9E0A-460C-91B8-ADB5ED2E4C49"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E6C10FB-90D4-481C-93A9-C313FE4EA8F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Feed/View/FeedCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0E6C10FB-90D4-481C-93A9-C313FE4EA8F5 - 6817d52ebe8b5e18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in Insta.FeedCell.body.getter : some"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1900">
+               </Location>
+               <Location
+                  uuid = "0E6C10FB-90D4-481C-93A9-C313FE4EA8F5 - 6817d52ebe8b5e18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in Insta.FeedCell.body.getter : some"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1744">
+               </Location>
+               <Location
+                  uuid = "0E6C10FB-90D4-481C-93A9-C313FE4EA8F5 - 6817d52ebe8b5e18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in Insta.FeedCell.body.getter : some"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "2148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11C9F715-6E77-4A9E-B512-9CEC5D77D0AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Feed/ViewModel/FeedViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34">
+            <Locations>
+               <Location
+                  uuid = "11C9F715-6E77-4A9E-B512-9CEC5D77D0AE - 5778ae570968d3b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Insta.FeedViewModel.fetchPost() async throws -&gt; ()"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/ViewModel/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "11C9F715-6E77-4A9E-B512-9CEC5D77D0AE - 4dd73889a93e75a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Insta.FeedViewModel.fetchPost() async throws -&gt; ()"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/ViewModel/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "11C9F715-6E77-4A9E-B512-9CEC5D77D0AE - 64d14623b34703b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Insta.FeedViewModel.fetchPost() async throws -&gt; ()"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/ViewModel/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "11C9F715-6E77-4A9E-B512-9CEC5D77D0AE - 72660a15f64bdbb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Insta.FeedViewModel.fetchPost() async throws -&gt; ()"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/ViewModel/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF7772FE-87F1-45B1-8826-43CCC97F6FA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Feed/ViewModel/FeedViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BF0DCEA-6A96-4254-A1FA-AA914496173C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Feed/View/FeedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8BF0DCEA-6A96-4254-A1FA-AA914496173C - c3f9641acc039547"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Insta.Post&gt;, Swift.String, Insta.FeedCell&gt; in closure #1 () -&gt; SwiftUI.LazyVStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Insta.Post&gt;, Swift.String, Insta.FeedCell&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Insta.FeedView.body.getter : some"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "8BF0DCEA-6A96-4254-A1FA-AA914496173C - ee712cfd94147b42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Insta.Post) -&gt; Insta.FeedCell in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Insta.Post&gt;, Swift.String, Insta.FeedCell&gt; in closure #1 () -&gt; SwiftUI.LazyVStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Insta.Post&gt;, Swift.String, Insta.FeedCell&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Insta.FeedView.body.getter : some"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84F52B8A-8D96-4694-909B-311F14EFBCED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Feed/View/FeedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "84F52B8A-8D96-4694-909B-311F14EFBCED - 9ca68dc300eb714d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.LazyVStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Insta.Post&gt;, Swift.String, Insta.FeedCell&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Insta.FeedView.body.getter : some"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "84F52B8A-8D96-4694-909B-311F14EFBCED - c3f9641acc039524"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Insta.Post&gt;, Swift.String, Insta.FeedCell&gt; in closure #1 () -&gt; SwiftUI.LazyVStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Insta.Post&gt;, Swift.String, Insta.FeedCell&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Insta.FeedView.body.getter : some"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDD936E8-8DE4-42B9-A565-14C298D47F16"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Feed/View/FeedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "CDD936E8-8DE4-42B9-A565-14C298D47F16 - cf7b832284773797"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Insta.FeedView.body.getter : some"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "CDD936E8-8DE4-42B9-A565-14C298D47F16 - ecac622e515abb87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Insta.FeedView.body.getter : some"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F970743D-6C8D-4719-86D6-E618872060A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Feed/View/FeedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F970743D-6C8D-4719-86D6-E618872060A8 - ecac622e515abb60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Insta.FeedView.body.getter : some"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "F970743D-6C8D-4719-86D6-E618872060A8 - 9ca68dc300eb716c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.LazyVStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Insta.Post&gt;, Swift.String, Insta.FeedCell&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Insta.FeedView.body.getter : some"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71DB1AF5-C35B-489D-AF04-36DB7D9B4188"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Feed/View/FeedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "FeedView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "71DB1AF5-C35B-489D-AF04-36DB7D9B4188 - a035b9cc9d8d0069"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Insta.FeedView.init() -&gt; Insta.FeedView"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "71DB1AF5-C35B-489D-AF04-36DB7D9B4188 - 2518a03bbd1387b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Insta.FeedView.init(viewModel: @autoclosure () -&gt; Insta.FeedViewModel) -&gt; Insta.FeedView"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9CCECB3-1188-4448-9BD5-5D3E78764291"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Feed/View/FeedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "FeedView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "B9CCECB3-1188-4448-9BD5-5D3E78764291 - e3e61a6a7c0ce4c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Insta.FeedView.viewModel : Insta.FeedViewModel"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "B9CCECB3-1188-4448-9BD5-5D3E78764291 - 833b22c41e3eece9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Insta.FeedView.viewModel.getter : Insta.FeedViewModel"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "B9CCECB3-1188-4448-9BD5-5D3E78764291 - bf280a4bea81a356"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Insta.FeedView.$viewModel.getter : SwiftUI.ObservedObject&lt;Insta.FeedViewModel&gt;.Wrapper"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B9CCECB3-1188-4448-9BD5-5D3E78764291 - de112e15342a89ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of Insta.FeedView.init(viewModel: @autoclosure () -&gt; Insta.FeedViewModel) -&gt; Insta.FeedView"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57F645FA-585C-4B7F-B553-CFF72C3B2155"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Feed/View/FeedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF47AA14-41AB-486C-AD14-DB630565A75C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Feed/View/FeedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EF1E5C9-10C4-4F38-BAF0-5648271F0806"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Feed/View/FeedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "039BE845-86EE-4C66-9241-CBB551C1047F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Feed/View/FeedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64F84603-C389-497C-B19E-C1BC5E94358C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Feed/View/FeedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEE39430-F0B7-4E23-A710-9A51F5A279A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Feed/View/FeedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "FEE39430-F0B7-4E23-A710-9A51F5A279A7 - ecac622e515ab849"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Insta.FeedView.body.getter : some"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1108">
+               </Location>
+               <Location
+                  uuid = "FEE39430-F0B7-4E23-A710-9A51F5A279A7 - 40cf2cb8a4ce934c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; &lt;&lt;opaque return type of static SwiftUI.ToolbarContentBuilder.buildBlock&lt;&#x3c4;_0_0 where &#x3c4;_0_0: SwiftUI.ToolbarContent&gt;(&#x3c4;_0_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Insta.FeedView.body.getter : some"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Feed/View/FeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05A80CE4-2FD8-416A-A87A-D95196EC868C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Services/PostService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchFeedPosts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "05A80CE4-2FD8-416A-A87A-D95196EC868C - 6c661b7eb3d1e750"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Insta.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;Insta.Post&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  uuid = "05A80CE4-2FD8-416A-A87A-D95196EC868C - 6c661b7eb3d1e750"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Insta.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;Insta.Post&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1044">
+               </Location>
+               <Location
+                  uuid = "05A80CE4-2FD8-416A-A87A-D95196EC868C - 1d63451b55f82352"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for static Insta.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;Insta.Post&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1032">
+               </Location>
+               <Location
+                  uuid = "05A80CE4-2FD8-416A-A87A-D95196EC868C - 1d63451b55f82352"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for static Insta.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;Insta.Post&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1092">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "164BB2BA-BD81-4BA9-9517-B004427E0DCC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Services/PostService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchFeedPosts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "164BB2BA-BD81-4BA9-9517-B004427E0DCC - 6c661b7eb3d1e733"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Insta.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;Insta.Post&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1068">
+               </Location>
+               <Location
+                  uuid = "164BB2BA-BD81-4BA9-9517-B004427E0DCC - 1d63451b55f82331"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for static Insta.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;Insta.Post&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55793CA9-24FC-4248-A7D2-902B51DA6D4C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Services/PostService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchFeedPosts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "55793CA9-24FC-4248-A7D2-902B51DA6D4C - 6c661b7eb3d1e712"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Insta.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;Insta.Post&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1332">
+               </Location>
+               <Location
+                  uuid = "55793CA9-24FC-4248-A7D2-902B51DA6D4C - 1d63451b55f82310"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for static Insta.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;Insta.Post&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EA6ED1E-0B0E-407C-8A81-63BBCC4940A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Services/PostService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchFeedPosts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0EA6ED1E-0B0E-407C-8A81-63BBCC4940A0 - 6c661b7eb3d1e6f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Insta.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;Insta.Post&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1404">
+               </Location>
+               <Location
+                  uuid = "0EA6ED1E-0B0E-407C-8A81-63BBCC4940A0 - 1d63451b55f822f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for static Insta.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;Insta.Post&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "190BD969-950F-4AB4-9C29-5CD340D090CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Services/PostService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "fetchFeedPosts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "190BD969-950F-4AB4-9C29-5CD340D090CD - 6c661b7eb3d1e6d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Insta.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;Insta.Post&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1576">
+               </Location>
+               <Location
+                  uuid = "190BD969-950F-4AB4-9C29-5CD340D090CD - 91ca83d3bfd315db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for static Insta.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;Insta.Post&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "190BD969-950F-4AB4-9C29-5CD340D090CD - 1d63451b55f822d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for static Insta.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;Insta.Post&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "190BD969-950F-4AB4-9C29-5CD340D090CD - 82618ea7f7235e28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for static Insta.PostService.fetchFeedPosts() async throws -&gt; Swift.Array&lt;Insta.Post&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phamduydat/Desktop/Insta/Insta/Core/Services/PostService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3C5A94A-6282-4DF7-956C-FB30E8748A2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Services/PostService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchFeedPosts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72EBA511-AADB-40E9-8725-3AE2F6209411"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Model/Post.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "Post"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1908638A-8DDC-4B9B-B37A-7E05287ADE4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Services/PostService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchFeedPosts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "598C7C82-EEFD-4A1B-8566-BBF497F08222"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Feed/ViewModel/FeedViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchPost()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8C70807-91F3-4745-9AD6-64E26BCE15B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/Core/Services/PostService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetchUserPosts(uid:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
